@@ -64,7 +64,7 @@ Aunque es un repositorio personal de aprendizaje:
 
 ## 🧑‍💻 Autor
 
-**Said Valencia**
+**Said Antonio Valencia Castrillo**
 Software Developer
 Python • Backend • Automation
 
